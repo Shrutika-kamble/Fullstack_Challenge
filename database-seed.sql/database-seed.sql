@@ -1,0 +1,2 @@
+-- Create an admin user (password hashed using bcrypt in backend if using create script)
+-- For quick start, after starting backend once, you can call the admin create endpoint or run a script.
